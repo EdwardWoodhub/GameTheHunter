@@ -49,7 +49,7 @@
 <details>
 <summary>点击查看图片（Cuatro Colinas Game Reserve）</summary>
 
-![CuatroColinasGameReserve_Fandom.png](CuatroColinasGameReserve_Fandom.png)
+![CuatroColinasGameReserve_Fandom.png](pics/CuatroColinasGameReserve_Fandom.png)
 </details>
 
 
